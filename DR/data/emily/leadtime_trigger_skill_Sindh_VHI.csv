@@ -1,0 +1,12 @@
+Variable,Province,Time_step,hits,misses,FA,true_neg
+VHI,Sindh,20,9.0,2.0,1.0,8.0
+VHI,Sindh,21,10.0,1.0,0.0,9.0
+VHI,Sindh,22,9.0,2.0,0.0,9.0
+VHI,Sindh,23,10.0,1.0,0.0,9.0
+VHI,Sindh,24,9.0,2.0,0.0,9.0
+VHI,Sindh,25,9.0,2.0,0.0,9.0
+VHI,Sindh,26,9.0,2.0,1.0,8.0
+VHI,Sindh,27,8.0,3.0,1.0,8.0
+VHI,Sindh,28,9.0,2.0,1.0,8.0
+VHI,Sindh,29,11.0,0.0,0.0,9.0
+VHI,Sindh,30,11.0,0.0,0.0,9.0

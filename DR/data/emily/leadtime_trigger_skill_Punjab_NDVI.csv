@@ -1,0 +1,12 @@
+Variable,Province,Time_step,hits,misses,FA,true_neg
+NDVI,Punjab,20,5.0,7.0,4.0,4.0
+NDVI,Punjab,21,7.0,5.0,4.0,4.0
+NDVI,Punjab,22,8.0,4.0,2.0,6.0
+NDVI,Punjab,23,7.0,5.0,2.0,6.0
+NDVI,Punjab,24,9.0,3.0,3.0,5.0
+NDVI,Punjab,25,7.0,5.0,4.0,4.0
+NDVI,Punjab,26,8.0,4.0,2.0,6.0
+NDVI,Punjab,27,10.0,2.0,1.0,7.0
+NDVI,Punjab,28,10.0,2.0,1.0,7.0
+NDVI,Punjab,29,11.0,1.0,1.0,7.0
+NDVI,Punjab,30,12.0,0.0,0.0,8.0

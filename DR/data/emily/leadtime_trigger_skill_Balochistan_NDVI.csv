@@ -1,0 +1,12 @@
+Variable,Province,Time_step,hits,misses,FA,true_neg
+NDVI,Balochistan,20,10.0,0.0,2.0,8.0
+NDVI,Balochistan,21,9.0,1.0,2.0,8.0
+NDVI,Balochistan,22,9.0,1.0,2.0,8.0
+NDVI,Balochistan,23,9.0,1.0,1.0,9.0
+NDVI,Balochistan,24,9.0,1.0,1.0,9.0
+NDVI,Balochistan,25,9.0,1.0,1.0,9.0
+NDVI,Balochistan,26,9.0,1.0,1.0,9.0
+NDVI,Balochistan,27,9.0,1.0,0.0,10.0
+NDVI,Balochistan,28,9.0,1.0,0.0,10.0
+NDVI,Balochistan,29,9.0,1.0,0.0,10.0
+NDVI,Balochistan,30,10.0,0.0,0.0,10.0

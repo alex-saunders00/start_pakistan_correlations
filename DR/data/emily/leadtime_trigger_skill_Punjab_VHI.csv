@@ -1,0 +1,12 @@
+Variable,Province,Time_step,hits,misses,FA,true_neg
+VHI,Punjab,20,5.0,3.0,4.0,8.0
+VHI,Punjab,21,5.0,3.0,2.0,10.0
+VHI,Punjab,22,6.0,2.0,3.0,9.0
+VHI,Punjab,23,6.0,2.0,2.0,10.0
+VHI,Punjab,24,6.0,2.0,2.0,10.0
+VHI,Punjab,25,7.0,1.0,2.0,10.0
+VHI,Punjab,26,8.0,0.0,1.0,11.0
+VHI,Punjab,27,8.0,0.0,1.0,11.0
+VHI,Punjab,28,8.0,0.0,1.0,11.0
+VHI,Punjab,29,7.0,1.0,1.0,11.0
+VHI,Punjab,30,8.0,0.0,0.0,12.0
